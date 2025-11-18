@@ -1,0 +1,7 @@
+streamlit
+numpy
+scipy
+mido
+pygame
+librosa
+sounddevice
